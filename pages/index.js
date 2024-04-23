@@ -33,7 +33,7 @@ export default function Home() {
       </div>
     </div>
 
-    <div id="container05" className="style1 container default full max-sm:mt-5">
+    <div id="container05" className="style1 container default  full max-sm:mt-5">
       <div className="wrapper">
         <div className="inner" data-onvisible-trigger="1">
           <h1 id="text05" className="style16 text-xl" style={{ opacity: 1, transform: 'none' }}>
@@ -52,7 +52,7 @@ export default function Home() {
     </div>
 
 
-    <h2 id="text09" class="style5 max-sm:mt-10 max-sm:text-center   " style={{opacity: 1, transform: "none"}}>This might sound familiar to you:</h2>
+    <h2 id="text09" class="style5 max-sm:mt-10 max-sm:text-center animate__animated animate__fadeIn animate__delay-3s   " style={{opacity: 1, transform: "none"}}>This might sound familiar to you:</h2>
 
     <div id="list02" className="style1 list ml-44 max-sm:ml-10 max-sm:mr-10 max-sm:mt-5">
       <ol>
@@ -103,7 +103,7 @@ export default function Home() {
       </div>
     </div>
 
-    <h2 id="" className=" text-white text-center text-3xl   " style={{opacity: 1, transform: "none"}}>That's where I come in:</h2>
+    <h2 id="" className=" text-white text-center text-3xl animate__animated animate__fadeIn animate__delay-3s  " style={{opacity: 1, transform: "none"}}>That's where I come in:</h2>
     <p id="" class="text-gray-300 text-center text-xl font-light mx-72 max-sm:mx-0   animate__delay-2s" style={{opacity: 1}}>I take care of your background operations, advise you, and support you - allowing you to scale and spend less time working on your business.</p>
 
     <div id="container08" className="style8 container default  w-2/3 ml-48 max-sm:w-96 max-sm:ml-6">
@@ -209,7 +209,7 @@ export default function Home() {
   <p id="text04" class="style1  animate__fadeIn   " style={{opacity: 1}}>hello@mypaidcommunity.com</p>
   <p id="text43" class="style1" style={{opacity: 1}}>© 2024 My Paid Community. All rights reserved.</p>
 
-  <button className="z-50 fixed md:bottom-6 bottom-4 flex h-16 origin-center bg-red-50 transform cursor-pointer items-center rounded-full py-4 px-6 text-base outline-none drop-shadow-md transition focus:outline-none focus:ring-4 focus:ring-gray-600 focus:ring-opacity-50 active:scale-95 md:right-10 right-4"
+  <button className="z-50 fixed md:bottom-6 bottom-4 flex animate__animated animate__slideInRight animate__delay-3s   h-16 origin-center bg-red-50 transform cursor-pointer items-center rounded-full py-4 px-6 text-base outline-none drop-shadow-md transition focus:outline-none focus:ring-4 focus:ring-gray-600 focus:ring-opacity-50 active:scale-95 md:right-10 right-4"
     style={{backgroundColor: 'rgb(47, 104, 216)', color: 'rgb(255, 255, 255)'}}>
         <div id="button-icon" className="mr-3 flex items-center justify-center" style={{display: 'block'}}>
 
