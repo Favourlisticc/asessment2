@@ -14,7 +14,7 @@ export default function Home() {
     <div id="" className="">
 
 
-      <div id="container06" className="style7 container columns full screen">
+      <div id="container06" className="style7 animate__animated animate__fadeIn animate__delay-2s container columns full screen">
       <div className="wrapper">
         <div className="inner mx-20 max-sm:mx-0" data-onvisible-trigger="1">
           <div>
@@ -93,7 +93,7 @@ export default function Home() {
           </div>
           <ul id="buttons02" className="style1 buttons" style={{ opacity: 1, transform: 'none' }}>
             <li>
-              <a href="https://cal.com/janismjartans/my-paid-community-discovery-call" className="button n01">
+              <a href="/" className="button n01">
               <svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 24 24" fill="none"><path stroke="#ffffff" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="1.5" d="M14.43 5.93L20.5 12l-6.07 6.07M3.5 12h16.83"></path></svg>
                 <span className="label">Schedule Call</span>
               </a>
@@ -122,7 +122,7 @@ export default function Home() {
           </div>
           <ul id="buttons07" className="style1 buttons" style={{ opacity: 1, transform: 'none' }}>
             <li>
-              <a href="https://cal.com/janismjartans/my-paid-community-discovery-call" className="button n01">
+              <a href="/" className="button n01">
               <svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 24 24" fill="none"><path stroke="#ffffff" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="1.5" d="M14.43 5.93L20.5 12l-6.07 6.07M3.5 12h16.83"></path></svg>
                 <span className="label">Schedule Call</span>
               </a>
@@ -170,7 +170,7 @@ export default function Home() {
               <span className="p">Now I help coaches &amp; creators with custom subscription-based communities and high-ticket digital products.</span>
             </p>
             <ul id="buttons06" className="style6 buttons" style={{ opacity: 1, transform: 'none' }}>
-              <li><a href="https://cal.com/janismjartans/my-paid-community-discovery-call" className="button n01">Schedule Call</a></li>
+              <li><a href="/" className="button n01">Schedule Call</a></li>
             </ul>
           </div>
           <div>
